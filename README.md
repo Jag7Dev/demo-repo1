@@ -1,1 +1,3 @@
-# demo-repo1
+# Demo
+
+This is a demo project
